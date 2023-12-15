@@ -1,0 +1,8 @@
+Nombre del paquete: com.Zulamdar.NinjaFrogAdventure
+Ubicacion de respaldo: unshakablehope32@gmail.com
+
+Descripcion breve:
+Help the frog and his friends to fulfill their goal of becoming a ninja.
+
+Descripcion completa:
+Help the frog and his friends to fulfill their goal of becoming a ninja, accompany him on his journey through various worlds, solve problems, puzzling, find secret passages, treasures, weapons and fruits, lots and lots of fruits, delve into increasingly dangerous territories, all in order to achieve their goal.

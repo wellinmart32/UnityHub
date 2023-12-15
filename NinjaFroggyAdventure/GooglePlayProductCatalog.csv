@@ -1,0 +1,2 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+p_10_gems_pack,published,managed_by_android,false,en_US;Gem pack example;A test gem buy,true,25000000,

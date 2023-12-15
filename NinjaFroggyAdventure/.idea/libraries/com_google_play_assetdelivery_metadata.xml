@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.play.assetdelivery.metadata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/GooglePlayPlugins/com.google.play.assetdelivery/Runtime/Plugins/com.google.play.assetdelivery.metadata.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
